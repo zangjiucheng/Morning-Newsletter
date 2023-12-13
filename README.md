@@ -1,3 +1,2 @@
-# Wechat-morning-post
-这个程序由python 3.x编写，用来自动生成可以在微信中发送的早报（蒙特利尔地区（其余地区以后更新））。  
-使用前请在openweather中申请api key（感谢openweather提供数据！）
+# Morning-Post-Web
+This program is written in python 3.x and uses streamlit as a front-end to automatically collect information about the weather, festivals, etc. of the day (currently for the Montreal area) through a crawler. The information is integrated into a beautiful image that can be edited on a web page...
